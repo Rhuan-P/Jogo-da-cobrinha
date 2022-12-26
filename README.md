@@ -2,10 +2,7 @@
 
 Mova a cobra pela tela e coma quantas maçãs puder até que a tela esteja cheia do corpo da cobra. Cada vez que uma maçã é comida, a cobra cresce.
 
-![img-jogo-da-cobrinha](https://user-images.githubusercontent.com/110051309/207015740-30fde2c6-5de8-4e8c-8d01-014108f45376.png)
-![img-jogo-da-cobrinha-M](https://user-images.githubusercontent.com/110051309/207015756-a1f899bb-c6c1-4f24-85f4-1ac2fb8ac4e5.png)
 
-> Essa paleta dá ideia de uma cenoura, quando a cobra chega para comer a maçã verde fica um formato mais ou menos da cenoura.
 
 
 ## 💻 Pré-requisitos
